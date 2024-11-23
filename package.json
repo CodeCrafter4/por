@@ -1,6 +1,6 @@
 {
-  "homepage": "https://muhammedAbdellayassin.github.io/personal-portfolio/",
-  "name": "react-portfolio-template",
+  "homepage": "https://CodeCrafter4.github.io/po/",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -31,7 +31,6 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -58,6 +57,7 @@
     ]
   },
   "devDependencies": {
-    "@types/react-vertical-timeline-component": "^3.3.6"
+    "@types/react-vertical-timeline-component": "^3.3.6",
+    "gh-pages": "^6.2.0"
   }
 }
